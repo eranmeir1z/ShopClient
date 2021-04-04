@@ -1,0 +1,12 @@
+img.card-img-top {
+  width: 12em;
+}
+
+.card {
+  max-width: 12em;
+}
+
+.product-img {
+  display: inline-block;
+  margin: 0 0 5em 1em;
+}
